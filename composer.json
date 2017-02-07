@@ -1,13 +1,30 @@
 {
-    "name": "anselm/kirby-textbeautifier",
-    "description": "Kirby CMS plugin for beautifying Kirbytext/Markdown content.",
-    "type": "kirby-plugin",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Anselm Hannemann",
-            "email": "info@anselm-hannemann.com"
-        }
-    ],
-    "require": {}
+	"name": "anselm/kirby-textbeautifier",
+	"description": "Kirby CMS plugin for beautifying Kirbytext/Markdown content.",
+	"type": "kirby-plugin",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Anselm Hannemann",
+			"email": "info@anselm-hannemann.com"
+		}
+	],
+	"keywords": [
+		"kirby",
+		"kirbycms",
+		"text",
+		"kirbytext"
+	],
+	"homepage": "https://github.com/anselmh/kirby-textbeautifier",
+	"support": {
+		"issues": "https://github.com/anselmh/kirby-textbeautifier/issues",
+		"source": "https://github.com/anselmh/kirby-textbeautifier.git",
+		"docs": "https://github.com/anselmh/kirby-textbeautifier/blob/master/README.md"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/anselmh/kirby-textbeautifier.git"
+		}
+	]
 }

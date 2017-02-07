@@ -1,0 +1,8 @@
+{
+	"name": "kirby-textbeautifier",
+	"description": "Kirby CMS plugin for beautifying Kirbytext/Markdown content.",
+	"author": "Anselm Hannemann <info@anselm-hannemann.com>",
+	"license": "MIT",
+	"version": "1.0.0",
+	"type": "kirby-plugin"
+}

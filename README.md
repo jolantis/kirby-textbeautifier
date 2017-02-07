@@ -11,7 +11,12 @@ It works with Markdown and Kirbytext.
 
 ## Installation
 
-0. Install Kirby CMS.
+### Using the [Kirby CLI](https://github.com/getkirby/cli#kirby-plugininstall)
+
+`kirby plugin:install anselmh/kirby-textbeautifier`
+
+### Install manually
+
 1. [Download Kirby textbeautifier](https://github.com/anselmh/kirby-textbeautifier/archive/master.zip) from Github
 2. Copy the patterns folder into `/site/plugins` (Create the plugins folder if it does not exist yet)
 
